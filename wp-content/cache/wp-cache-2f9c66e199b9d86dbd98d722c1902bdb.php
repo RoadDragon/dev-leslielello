@@ -52,6 +52,7 @@ img.emoji {
 <link rel='stylesheet' id='sydney-bootstrap-css'  href='http://localhost:8888/dev-leslielello/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='http://localhost:8888/dev-leslielello/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
 <link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://localhost:8888/dev-leslielello/wp-content/plugins/siteorigin-panels/inc/../css/front-flex.css?ver=2.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-social-media-buttons-atom-c4e4722a8923-css'  href='http://localhost:8888/dev-leslielello/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-atom-c4e4722a8923.css?ver=4.7.4' type='text/css' media='all' />
 <link rel='stylesheet' id='sow-social-media-buttons-flat-5cf43d6541dd-css'  href='http://localhost:8888/dev-leslielello/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-5cf43d6541dd.css?ver=4.7.4' type='text/css' media='all' />
 <link rel='stylesheet' id='social-icons-general-css'  href='//localhost:8888/dev-leslielello/wp-content/plugins/social-icons/assets/css/social-icons.css?ver=1.5.0' type='text/css' media='all' />
 <link rel='stylesheet' id='wordfenceAJAXcss-css'  href='http://localhost:8888/dev-leslielello/wp-content/plugins/wordfence/css/wordfenceBox.css?ver=6.3.8' type='text/css' media='all' />
@@ -478,7 +479,35 @@ End of comment */
 	</div><!-- #content -->
 
 	
+			
+
 	
+	<div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
+		<div class="container">
+							<div class="sidebar-column col-md-4">
+					<aside id="text-4" class="widget widget_text">			<div class="textwidget"><br></div>
+		</aside>				</div>
+				
+							<div class="sidebar-column col-md-4">
+					<aside id="sow-social-media-buttons-2" class="widget widget_sow-social-media-buttons"><div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-atom-d3080bc02873">
+<div class="social-media-button-container">
+	
+		<a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="Leslie Lello on Facebook" target="_blank" href="https://www.facebook.com/leslielello" >
+			<span>
+								<span class="sow-icon-fontawesome" data-sow-icon="&#xf09a;" ></span>							</span>
+		</a>
+	
+		<a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="Leslie Lello on Twitter" target="_blank" href="https://twitter.com/leslielello" >
+			<span>
+								<span class="sow-icon-fontawesome" data-sow-icon="&#xf099;" ></span>							</span>
+		</a>
+	</div>
+</div></aside>				</div>
+				
+				
+				
+		</div>	
+	</div>	
     <a class="go-top"><i class="fa fa-angle-up"></i></a>
 		
 	<footer id="colophon" class="site-footer" role="contentinfo">
@@ -499,6 +528,7 @@ jQuery(document).ready(function($){
   $("a[rel*=lightbox]").colorbox({width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,maxWidth:false,maxHeight:false,scalePhotos:false,opacity:0.5,current:" {current}  {total}",previous:"",next:"",close:"",overlayClose:false,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
 });
 </script>
+<link rel='stylesheet' id='sow-social-media-buttons-atom-d3080bc02873-css'  href='http://localhost:8888/dev-leslielello/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-atom-d3080bc02873.css?ver=4.7.4' type='text/css' media='all' />
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-includes/js/admin-bar.min.js?ver=4.7.4'></script>
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'>
@@ -597,13 +627,13 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 		<li id="wp-admin-bar-my-account" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/dev-leslielello/wp-admin/profile.php">Howdy, leslie_vfx</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:8888/dev-leslielello/wp-admin/profile.php"><span class='display-name'>leslie_vfx</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/profile.php">Edit My Profile</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-login.php?action=logout&#038;_wpnonce=2353a44d17">Log Out</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://localhost:8888/dev-leslielello/wp-login.php?action=logout&#038;_wpnonce=2353a44d17">Log Out</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-login.php?action=logout&#038;_wpnonce=d111e0140e">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/dev-leslielello/wp-login.php?action=logout&#038;_wpnonce=d111e0140e">Log Out</a>
 					</div>
 
 		
 </body>
 </html>
 
-<!-- Dynamic page generated in 4.111 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2017-05-14 22:52:11 -->
+<!-- Dynamic page generated in 5.732 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-05-15 09:18:23 -->

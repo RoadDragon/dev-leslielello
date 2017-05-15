@@ -6,16 +6,13 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://localhost:8888/dev-leslielello/xmlrpc.php">
 	
-<title>Packages - Leslie Lello</title>
+<title>Services Archive - Leslie Lello</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v4.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<!-- Admin only notice: this page doesn't show a meta description because it doesn't have one, either write it for this page specifically or go into the SEO -> Titles menu and set up a template. -->
-<link rel="canonical" href="http://localhost:8888/dev-leslielello/packages/" />
+<link rel="canonical" href="http://localhost:8888/dev-leslielello/services/" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="(coming soon)" />
-<meta name="twitter:title" content="Packages - Leslie Lello" />
+<meta name="twitter:title" content="Services Archive - Leslie Lello" />
 <meta name="twitter:site" content="@leslielello" />
-<meta name="twitter:creator" content="@leslielello" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s0.wp.com' />
@@ -23,6 +20,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Leslie Lello &raquo; Feed" href="http://localhost:8888/dev-leslielello/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Leslie Lello &raquo; Comments Feed" href="http://localhost:8888/dev-leslielello/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Leslie Lello &raquo; Services Feed" href="http://localhost:8888/dev-leslielello/services/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/dev-leslielello\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -153,9 +151,6 @@ body { color:#8b8b8b}
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/dev-leslielello/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/dev-leslielello/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.7.4" />
-<link rel='shortlink' href='http://localhost:8888/dev-leslielello/?p=1272' />
-<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/dev-leslielello/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/dev-leslielello/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F&#038;format=xml" />
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
 
@@ -189,21 +184,9 @@ End of comment */
 		* html body { margin-top: 46px !important; }
 	}
 </style>
-
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Packages" />
-<meta property="og:url" content="http://localhost:8888/dev-leslielello/packages/" />
-<meta property="og:description" content="(coming soon)" />
-<meta property="article:published_time" content="2017-05-15T02:08:18+00:00" />
-<meta property="article:modified_time" content="2017-05-15T02:08:18+00:00" />
-<meta property="og:site_name" content="Leslie Lello" />
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
-<meta property="og:locale" content="en_US" />
-<meta name="twitter:card" content="summary" />
 </head>
 
-<body class="page-template-default page page-id-1272 logged-in admin-bar no-customize-support">
+<body class="archive post-type-archive post-type-archive-services logged-in admin-bar no-customize-support">
 
 	<div class="preloader">
 	    <div class="spinner">
@@ -231,9 +214,9 @@ End of comment */
 					<nav id="mainnav" class="mainnav" role="navigation">
 						<div class="menu-custom-header-menu-container"><ul id="menu-custom-header-menu" class="menu"><li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://localhost:8888/dev-leslielello/about/">About</a></li>
 <li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279"><a href="http://localhost:8888/dev-leslielello/services/">Services</a></li>
-<li id="menu-item-1278" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1272 current_page_item menu-item-1278"><a href="http://localhost:8888/dev-leslielello/packages/">Packages</a></li>
+<li id="menu-item-1278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1278"><a href="http://localhost:8888/dev-leslielello/packages/">Packages</a></li>
 <li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://localhost:8888/dev-leslielello/contact/">Contact</a></li>
-<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="http://localhost:8888/dev-leslielello/blog/">Blog</a></li>
+<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-332"><a href="http://localhost:8888/dev-leslielello/blog/">Blog</a></li>
 </ul></div>					</nav><!-- #site-navigation -->
 				</div>
 				</div>
@@ -253,36 +236,83 @@ End of comment */
 	<div id="content" class="page-wrap">
 		<div class="container content-wrapper">
 			<div class="row">	
-	<div id="primary" class="content-area col-md-9">
+	
+	<div id="primary" class="content-area">
 		<main id="main" class="post-wrap" role="main">
 
+		
+															<div class="service col-md-4">
+					<div class="roll-icon-box">
+									
+						<div class="icon">
+							<i class="fa fa-microphone"></i>						</div>
+													
+						<div class="content">
+							<h3>
+																Large Media Project Management															</h3>
+							<p>Additional project management includes creating podcasts or setting up a podcast station, creating a webinar or a webinar series or an online video course.</p>
+						</div>	
+					</div>
+				</div>
+															<div class="service col-md-4">
+					<div class="roll-icon-box">
+									
+						<div class="icon">
+							<i class="fa fa-television"></i>						</div>
+													
+						<div class="content">
+							<h3>
+																Web Development															</h3>
+							<p>Whether you just need a few tweaks to your current site, or a complete custom overhaul, I can help you create a site that suits your needs and the needs of your business that will give you the look and feel that matches your brand.</p>
+						</div>	
+					</div>
+				</div>
+															<div class="service col-md-4">
+					<div class="roll-icon-box">
+									
+						<div class="icon">
+							<i class="fa fa-feed"></i>						</div>
+													
+						<div class="content">
+							<h3>
+																Media &#038; Content Production															</h3>
+							<p>Once you have a website, creating content is a must to stay relevant and to generate good Search Engine Optimization (SEO). Get assistance with content creation, such as blog posting, photo and video or simply get assistance creating a publishing schedule so that you can build the content yourself.</p>
+						</div>	
+					</div>
+				</div>
+															<div class="service col-md-4">
+					<div class="roll-icon-box">
+									
+						<div class="icon">
+							<i class="fa fa-user-circle-o"></i>						</div>
+													
+						<div class="content">
+							<h3>
+																Social Media &#038; Marketing															</h3>
+							<p>If you need help with social media options, timing or content, or are focusing on a special project or launch, I can give you the assistance you require to create a focused marketing campaign, with a deliberate focus on social media.</p>
+						</div>	
+					</div>
+				</div>
+															<div class="service col-md-4">
+					<div class="roll-icon-box">
+									
+						<div class="icon">
+							<i class="fa fa-envelope-o"></i>						</div>
+													
+						<div class="content">
+							<h3>
+																Email Campaigns															</h3>
+							<p>Every business needs an email list. I can help you connect your email service (whether it is Mail Chimp, Get Response, Aweber, etc) to your website and your social media, create an automation schedule and assist with layout and design templates.</p>
+						</div>	
+					</div>
+				</div>
 			
-				
-<article id="post-1272" class="post-1272 page type-page status-publish hentry">
-	<header class="entry-header">
-		<h1 class="title-post entry-title">Packages</h1>	</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>(coming soon)</p>
-			</div><!-- .entry-content -->
-
-	<footer class="entry-footer">
-		<span class="edit-link"><a class="post-edit-link" href="http://localhost:8888/dev-leslielello/wp-admin/post.php?post=1272&#038;action=edit">Edit</a></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
-
-				
 			
+		
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
-
-<div id="secondary" class="widget-area col-md-3" role="complementary">
-	<aside id="image-3" class="widget widget_image"><div class="jetpack-image-container"><a  href="http://leslielello.com/wp-content/uploads/2017/03/LeslieInNYC_01circle.png"><img src="http://leslielello.com/wp-content/uploads/2017/03/LeslieInNYC_01circle.png" alt="Leslie Lello (image)" class="aligncenter" width="600" height="338" /></a></div>
-</aside><aside id="nav_menu-6" class="widget widget_nav_menu"><h3 class="widget-title">Social</h3><div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-509"><a href="https://twitter.com/leslielello">Twitter</a></li>
-<li id="menu-item-508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-508"><a href="https://www.facebook.com/leslielello.page">Facebook</a></li>
-<li id="menu-item-518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-518"><a href="https://vimeo.com/leslielello">Vimeo</a></li>
-<li id="menu-item-507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-507"><a href="https://www.linkedin.com/in/leslielello">LinkedIn</a></li>
-</ul></div></aside></div><!-- #secondary -->
+	
 			</div>
 		</div>
 	</div><!-- #content -->
@@ -351,6 +381,9 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/themes/sydney/js/scripts.js?ver=4.7.4'></script>
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/themes/sydney/js/masonry-init.js?ver=4.7.4'></script>
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
 <script type='text/javascript' src='http://localhost:8888/dev-leslielello/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
 	<!--[if lte IE 8]>
@@ -388,7 +421,7 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/nav-menus.php">Menus</a>		</li>
 		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/themes.php?page=custom-background">Background</a>		</li>
 		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/themes.php?page=custom-header">Header</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F">Customize</a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/dev-leslielello/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
 		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/post-new.php">Post</a>		</li>
@@ -403,25 +436,24 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 		<li id="wp-admin-bar-new-social_icon"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/post-new.php?post_type=social_icon">Social Icon</a>		</li>
 		<li id="wp-admin-bar-new-custom-css-js"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/post-new.php?post_type=custom-css-js">Custom Code</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/user-new.php">User</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/post.php?post=1272&#038;action=edit">Edit Page</a>		</li>
-		<li id="wp-admin-bar-wpseo-menu" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/dev-leslielello/wp-admin/admin.php?page=wpseo_dashboard"><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div class="wpseo-score-icon adminbar-seo-score na"><span class="adminbar-seo-score-text screen-reader-text"></span></div></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-menu-default" class="ab-submenu">
+		<li id="wp-admin-bar-wpseo-menu" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/dev-leslielello/wp-admin/admin.php?page=wpseo_dashboard"><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-menu-default" class="ab-submenu">
 		<li id="wp-admin-bar-wpseo-kwresearch" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Keyword Research</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-kwresearch-default" class="ab-submenu">
 		<li id="wp-admin-bar-wpseo-adwordsexternal"><a class="ab-item" href="http://adwords.google.com/keywordplanner" target="_blank">AdWords External</a>		</li>
 		<li id="wp-admin-bar-wpseo-googleinsights"><a class="ab-item" href="https://www.google.com/trends/explore#q=" target="_blank">Google Trends</a>		</li>
 		<li id="wp-admin-bar-wpseo-wordtracker"><a class="ab-item" href="http://tools.seobook.com/keyword-tools/seobook/?keyword=" target="_blank">SEO Book</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-wpseo-analysis" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Analyze this page</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-analysis-default" class="ab-submenu">
-		<li id="wp-admin-bar-wpseo-inlinks-ose"><a class="ab-item" href="//moz.com/researchtools/ose/links?site=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Check Inlinks (OSE)</a>		</li>
-		<li id="wp-admin-bar-wpseo-kwdensity"><a class="ab-item" href="http://www.zippy.co.uk/keyworddensity/index.php?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F&#038;keyword=" target="_blank">Check Keyword Density</a>		</li>
-		<li id="wp-admin-bar-wpseo-cache"><a class="ab-item" href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Check Google Cache</a>		</li>
-		<li id="wp-admin-bar-wpseo-header"><a class="ab-item" href="//quixapp.com/headers/?r=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Check Headers</a>		</li>
-		<li id="wp-admin-bar-wpseo-structureddata"><a class="ab-item" href="https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Google Structured Data Test</a>		</li>
-		<li id="wp-admin-bar-wpseo-facebookdebug"><a class="ab-item" href="//developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Facebook Debugger</a>		</li>
-		<li id="wp-admin-bar-wpseo-pinterestvalidator"><a class="ab-item" href="https://developers.pinterest.com/tools/url-debugger/?link=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Pinterest Rich Pins Validator</a>		</li>
-		<li id="wp-admin-bar-wpseo-htmlvalidation"><a class="ab-item" href="//validator.w3.org/check?uri=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">HTML Validator</a>		</li>
-		<li id="wp-admin-bar-wpseo-cssvalidation"><a class="ab-item" href="//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">CSS Validator</a>		</li>
-		<li id="wp-admin-bar-wpseo-pagespeed"><a class="ab-item" href="//developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Google Page Speed Test</a>		</li>
-		<li id="wp-admin-bar-wpseo-microsoftedge"><a class="ab-item" href="https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Microsoft Edge Site Scan</a>		</li>
-		<li id="wp-admin-bar-wpseo-google-mobile-friendly"><a class="ab-item" href="https://www.google.com/webmasters/tools/mobile-friendly/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fpackages%2F" target="_blank">Mobile-Friendly Test</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-wpseo-inlinks-ose"><a class="ab-item" href="//moz.com/researchtools/ose/links?site=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Check Inlinks (OSE)</a>		</li>
+		<li id="wp-admin-bar-wpseo-kwdensity"><a class="ab-item" href="http://www.zippy.co.uk/keyworddensity/index.php?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F&#038;keyword=" target="_blank">Check Keyword Density</a>		</li>
+		<li id="wp-admin-bar-wpseo-cache"><a class="ab-item" href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Check Google Cache</a>		</li>
+		<li id="wp-admin-bar-wpseo-header"><a class="ab-item" href="//quixapp.com/headers/?r=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Check Headers</a>		</li>
+		<li id="wp-admin-bar-wpseo-structureddata"><a class="ab-item" href="https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Google Structured Data Test</a>		</li>
+		<li id="wp-admin-bar-wpseo-facebookdebug"><a class="ab-item" href="//developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Facebook Debugger</a>		</li>
+		<li id="wp-admin-bar-wpseo-pinterestvalidator"><a class="ab-item" href="https://developers.pinterest.com/tools/url-debugger/?link=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Pinterest Rich Pins Validator</a>		</li>
+		<li id="wp-admin-bar-wpseo-htmlvalidation"><a class="ab-item" href="//validator.w3.org/check?uri=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">HTML Validator</a>		</li>
+		<li id="wp-admin-bar-wpseo-cssvalidation"><a class="ab-item" href="//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">CSS Validator</a>		</li>
+		<li id="wp-admin-bar-wpseo-pagespeed"><a class="ab-item" href="//developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Google Page Speed Test</a>		</li>
+		<li id="wp-admin-bar-wpseo-microsoftedge"><a class="ab-item" href="https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Microsoft Edge Site Scan</a>		</li>
+		<li id="wp-admin-bar-wpseo-google-mobile-friendly"><a class="ab-item" href="https://www.google.com/webmasters/tools/mobile-friendly/?url=http%3A%2F%2Flocalhost%3A8888%2Fdev-leslielello%2Fservices%2F" target="_blank">Mobile-Friendly Test</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-wpseo-settings" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">SEO Settings</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-settings-default" class="ab-submenu">
 		<li id="wp-admin-bar-wpseo-general"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/admin.php?page=wpseo_dashboard">Dashboard</a>		</li>
 		<li id="wp-admin-bar-wpseo-titles"><a class="ab-item" href="http://localhost:8888/dev-leslielello/wp-admin/admin.php?page=wpseo_titles">Titles &amp; Metas</a>		</li>
@@ -443,5 +475,5 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 </body>
 </html>
 
-<!-- Dynamic page generated in 1.002 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2017-05-15 09:18:58 -->
+<!-- Dynamic page generated in 0.716 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-05-15 09:19:02 -->
