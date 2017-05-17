@@ -1,0 +1,14 @@
+ /*
+ Theme Name:   Sydney Child Theme
+ Theme URI:    https://athemes.com/
+ Description:  Sydney Child Theme
+ Author:       Leslie Lello
+ Author URI:   http://leslielello.com
+ Template:     Sydney
+ Version:      1.0.0
+ Tags:         light, dark, responsive-layout
+ Text Domain:  sydney-child
+*/
+
+@import url("../Sydney/style.css");
+
